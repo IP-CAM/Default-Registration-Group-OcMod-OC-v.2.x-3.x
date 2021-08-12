@@ -1,6 +1,6 @@
 # Default Registration Group
 
-![](.pic/picture0.jpg)
+![](./pic/picture0.jpg)
 
 ## Description
 The "Default Registration Group" extension is for Opencart CMS 2.x-3.x. It allows to automatically assign a specific customer group to newly registered customers.
@@ -10,8 +10,8 @@ The "Default Registration Group" extension is for Opencart CMS 2.x-3.x. It allow
 * Does not change OC core files due to using OCMOD Modification System
 
 ## Screenshots
-![](.pic/picture1.jpg)
-![](.pic/picture2.jpg)
+![](./pic/picture1.jpg)
+![](./pic/picture2.jpg)
 
 ## Live demo
 * [Front](http://ocmod.freevar.com/oc3020/a)
