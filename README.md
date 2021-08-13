@@ -6,7 +6,7 @@
 The "Default Registration Group" extension is for Opencart CMS 2.x-3.x. It allows to automatically assign a specific customer group to newly registered customers.
 
 ## Features
-* Automatically assign a specific customer group to newly registered customers
+* Automatically assigns newly registered customers to a specific customer group
 * Does not change OC core files due to using OCMOD Modification System
 
 ## Screenshots
