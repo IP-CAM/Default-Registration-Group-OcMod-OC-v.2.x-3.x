@@ -3,7 +3,7 @@
 ![](./pic/picture0.jpg)
 
 ## Description
-The "Default Registration Group" extension is for Opencart CMS 2.x-3.x. It allows to automatically assign a specific customer group to newly registered customers.
+The "Default Registration Group" extension is for Opencart CMS 2.x-3.x. It allows to automatically assigns newly registered customers to a specific customer group.
 
 ## Features
 * Automatically assigns newly registered customers to a specific customer group
