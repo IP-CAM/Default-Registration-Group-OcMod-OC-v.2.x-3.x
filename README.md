@@ -1,7 +1,7 @@
 # Default Registration Group
 
 ## Description
-**Default Registration Group** extension that allows you to add new customers to a defined customer group.  
+**Default Registration Group** extension that allows to add new registered customers to a defined customer group.  
 Compatible with OpenCart 2.x-3.x versions.
 
 ## Download

@@ -1,12 +1,12 @@
 # Default Registration Group
 
 ## Description
-**Default Registration Group** extension that allows you to add new customers to a defined customer group.  
+**Default Registration Group** extension that allows to add new registered customers to a defined customer group.  
 Compatible with OpenCart 2.x-3.x versions.
 
 ## Features
-* Automatically assigns newly registered customers to a specific customer group
-* Does not change OC core files due to using OCMOD Modification System
+* Automatically adds new registered customers to a specific customer group.
+* Does not change OC system files (OCMOD).
 
 ## Live demo
 [Front](http://ocmod.freevar.com/oc3020/a/mp3-players) - register and get a 5% discount
