@@ -6,7 +6,7 @@ Compatible with OpenCart 2.x-3.x versions.
 
 ## Features
 * Automatically adds new registered customers to a specific customer group.
-* Does not modify OC system files (OCMOD).
+* Does not modify system files (OCMOD).
 
 ## Live demo
 [Front](http://ocmod.freevar.com/oc3020/a/mp3-players) - register and get a 5% discount
