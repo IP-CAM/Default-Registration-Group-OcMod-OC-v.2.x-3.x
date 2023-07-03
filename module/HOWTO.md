@@ -24,4 +24,4 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Extensions → Extensions → Modules → #ocmod.space: default-registration-group → [Install]
 
 ## Configure
-* System → Settings → [Edit] stores settings → Option → Account → Registration Group
+* System → Settings → [Edit] → Option → Account → Registration Group
