@@ -1,23 +1,24 @@
 # Default Registration Group
 
 ## Description
-**Default Registration Group** extension that allows to add new registered customers to a defined customer group.  
+**Default Registration Group** is an OpenCart extension that allows to automatically assign newly registered customers to a defined customer group.  
 Compatible with OpenCart 2.x-3.x versions.
 
 ## Features
-* Automatically adds new registered customers to a specific customer group.
+* Automatic assignment of newly registered customers to a defined customer group.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-[Front](http://ocmod.freevar.com/oc3020/a/mp3-players) - register and get a 5% discount
+[Store Front](https://demo.ocmod.space/a/index.php?route=product/product&product_id=29) - try to register and get a 5% discount
 
 ## License
 [End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-default-registration-group/main/EULA.txt)
 
 ## Related extensions
-[Customer Loyalty](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646) - auto-transfer of customers to appropriate groups according to total amounts they have spent.  
-[Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) - allows customers to join other groups and access special prices or discounts available to those groups.  
-[Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - displays customer quantity in groups.  
+* Automatically group customers based on their total spend using [Customer Loyalty](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646).
+* Use [Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) to allow customers to join other customer groups, for example to access discounts available to those groups.
+* Check the number of members in customer groups using the "[Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642)" extension.
 
 ## Download
-[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480)
+* [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480)
+* [OCMod Space](https://www.ocmod.space/default-registration-group)
