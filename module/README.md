@@ -15,8 +15,8 @@ Compatible with OpenCart 2.x-3.x versions.
 [End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-default-registration-group/main/EULA.txt)
 
 ## Related extensions
-* Automatically group customers based on their total spend using [Customer Loyalty](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646).
-* Use [Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) to allow customers to join other customer groups, for example to access discounts available to those groups.
+* Automatically group customers based on their total spend using the "[Customer Loyalty](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646)" module.
+* Use the "[Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632)" module to allow customers to join other customer groups, for example to access discounts available to those groups.
 * Check the number of members in customer groups using the "[Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642)" extension.
 
 ## Download
