@@ -18,6 +18,7 @@ Compatible with OpenCart 2.x-3.x versions.
 * Automatically group customers based on their total spend using the [**Customer Loyalty**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646) module.
 * Use the [**Invite Code**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) module to allow customers to join other customer groups, for example to access discounts available to those groups.
 * Check the number of members in customer groups using the [**Customer Group Size**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) extension.
+* Allow foreign customers to get the same gross prices as in the country where the store is located (despite different VAT rates) using the [**Consistent Pricing**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968) extension.
 
 ## Links
 * **Default Registration Group** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480).
